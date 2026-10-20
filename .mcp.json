@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "tenderb-govcon-scout": {
+      "url": "https://mcp.tenderb.us/sse"
+    }
+  }
+}
